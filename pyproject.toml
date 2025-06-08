@@ -20,7 +20,11 @@ dependencies = [
         "langchain",
         "langchain-core",
         "pydantic",
-        "flask"
+        "flask",
+        "langchain-community",
+        "langchain-core",
+        "flask-cors",
+
 ]
 
 [build-system]
